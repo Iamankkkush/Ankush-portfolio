@@ -34,3 +34,4 @@ Free hosting option — GitHub Pages:
 4. Use the generated Pages URL. Hosting terms/availability are subject to GitHub's current plan.
 
 The site loads Google Fonts from a CDN. All other site code and project images are included locally.
+Portfolio deployment refresh.
