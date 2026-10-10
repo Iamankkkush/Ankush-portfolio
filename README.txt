@@ -8,6 +8,7 @@ Files:
 - script.js: navigation, scroll reveals and hero parallax
 - assets/: optimised WebP versions of original photographs supplied by Ankush
 
+Contact email: iamankush1907@gmail.com (clickable mailto link in the contact section and footer)
 Personal Instagram profile: https://www.instagram.com/iamankkkush/ (linked in the header, selected-work intro, contact CTA and footer)
 
 Projects currently included:
@@ -20,7 +21,7 @@ Projects currently included:
 
 Notes:
 - Reel links open on Instagram. Instagram access, playback and thumbnails are controlled by Instagram; the project covers are original designed link cards, not screenshots of the reels.
-- Update the contact link and add a public professional email once Ankush supplies one.
+- Contact email is set to iamankush1907@gmail.com.
 - Add friend creator-channel projects only after their channel links and Ankush's specific contribution are provided.
 - Review image choices and accessibility before publishing publicly.
 
